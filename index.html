@@ -1,11 +1,62 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
-  <meta charset="utf-8">
-  <title>jxpiter</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spectre - Mon Blog Personnel</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <h1>jxpiter</h1>
-  <p>Cybersecurity enthusiast.</p>
+    <header>
+        <nav class="top-nav">
+            <a href="#">Blog</a>
+            <a href="#">Projets</a>
+            <span class="search-hint">Search (Ctrl+K)</span>
+        </nav>
+    </header>
+    
+    <div class="container">
+        <aside class="sidebar">
+            <div class="profile-card">
+                <img src="assets/avatar.png" alt="Spectre Avatar" class="avatar">
+                <h1>Spectre</h1>
+                <p>💻 1 year old</p>
+                <p>📍 Made in Germany</p>
+            </div>
+            
+            <section class="socials">
+                <h2>Socials</h2>
+                <ul>
+                    <li><a href="#" target="_blank">GitHub</a></li>
+                </ul>
+            </section>
+        </aside>
+
+        <main class="content-area">
+            <section class="about">
+                <h2>About me</h2>
+                <p>Spectre is a terminal-inspired theme for Astro!...</p>
+            </section>
+
+            <section class="posts">
+                <h2>Latest Posts</h2>
+                <div class="post-item">
+                    <h3><a href="#">Getting Started with Spectre</a></h3>
+                    <p>Find out how to configure Spectre.</p>
+                    <span class="date">12/29/2024</span>
+                </div>
+                </section>
+
+            <section class="work">
+                <h2>Work Experience</h2>
+                <div class="experience-item">
+                    <h3>Astro Community</h3>
+                    <p>2024 - present</p>
+                    <p>Existing as an Astro theme for anyone to use.</p>
+                </div>
+            </section>
+        </main>
+    </div>
 </body>
 </html>
