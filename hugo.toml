@@ -1,0 +1,147 @@
+title = "jxpiter"
+baseURL = "https://JxpiterX.github.io/"
+
+languageCode = 'en-us'
+defaultContentLanguage = "en-us"
+
+enableGitInfo = true
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"]
+
+
+[services]
+  [services.googleAnalytics]
+    id = ''
+
+  [services.disqus]
+    shortname = ''
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+	[markup.tableOfContents]
+		startLevel = 2
+		endLevel = 4
+		ordered = false
+
+############################## English language ################################
+[Languages.en-us]
+  languageName = "English"
+  languageCode = "en-us"
+  contentDir = "content/en"
+  weight = 1
+
+  [Languages.en-us.menu]
+  [[Languages.en-us.menu.main]]
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[Languages.en-us.menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[Languages.en-us.menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+[Languages.en-us.params]
+  sitename = "Awesome hugo blog"
+  defaultColor = "dark"
+  description = "Minimal Hugo blog theme with light and dark mode support"
+  mainSections = ['posts']
+  toc = true
+  tocOpen = false
+  goToTop = true
+  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  dateFormat = ""
+  rssFeedDescription = "summary"
+
+[Languages.en-us.params.author]
+  avatar = "avatar.jpg"
+  intro = "Awesome hugo blog"
+  name = "Sidharth R"
+  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+
+[Languages.en-us.params.webmanifest]
+  name = "sitename" # will use "params.sitename" or "title" by default
+  short_name = "sitename"
+  start_url = "/"
+  theme_color = "#434648"
+  background_color = "#fff"
+  display = "standalone"
+
+
+############################## French language ################################
+[Languages.fr-fr]
+  languageName = "French"
+  languageCode = "fr-fr"
+  contentDir = "content/fr"
+  weight = 1
+
+  [Languages.fr-fr.menu]
+  [[Languages.fr-fr.menu.main]]
+    pageRef="/"
+    name = 'Accueil'
+    url = '/'
+    weight = 10
+  [[Languages.fr-fr.menu.main]]
+    pageRef="posts"
+    name = 'Articles'
+    url = '/posts/'
+    weight = 20
+  [[Languages.fr-fr.menu.main]]
+    pageRef="about"
+    name = 'À propos'
+    url = '/about/'
+    weight = 30
+
+[Languages.fr-fr.params]
+  sitename = "Awesome hugo blog"
+  defaultColor = "dark" # set color mode: dark, light, auto
+  description = "Thème minimal pour blog Hugo avec prise en charge des modes clair et sombre"
+  mainSections = ['posts']
+  toc = true
+  tocOpen = false
+  goToTop = true
+  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  dateFormat = ""
+  rssFeedDescription = "summary" # available options: 1) summary 2) full
+
+[Languages.fr-fr.params.author]
+  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  intro = "Awesome hugo blog"
+  name = "Sidharth R"
+  description = "Un thème Hugo rapide et minimaliste avec un mode clair et sombre, pour un site personnel ou un blog."
+
+[Languages.fr-fr.params.webmanifest]
+  name = "sitename"
+  short_name = "sitename"
+  start_url = "/"
+  theme_color = "#434648"
+  background_color = "#fff"
+  display = "standalone"
+
+
+
+#####################################################################################
+
+[params.browserconfig]
+  TileColor = "#2d89ef" # default windows 10 blue tile color
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/hugo-sid"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
