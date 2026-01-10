@@ -2,112 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jxpiterx.github.io/posts/table-of-content/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <loc>https://jxpiterx.github.io/posts/writeup_cyberdefenders/</loc>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/posts/table-of-content/"
+                href="https://jxpiterx.github.io/fr-fr/posts/writeup_cyberdefenders/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jxpiterx.github.io/posts/table-of-content/"
+                href="https://jxpiterx.github.io/posts/writeup_cyberdefenders/"
                 />
   </url><url>
-    <loc>https://jxpiterx.github.io/posts/math-typesetting/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <loc>https://jxpiterx.github.io/posts/onion_tool/</loc>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/posts/math-typesetting/"
+                href="https://jxpiterx.github.io/fr-fr/posts/onion_tool/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jxpiterx.github.io/posts/math-typesetting/"
+                href="https://jxpiterx.github.io/posts/onion_tool/"
                 />
   </url><url>
-    <loc>https://jxpiterx.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <loc>https://jxpiterx.github.io/posts/machine_learning/</loc>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/posts/markdown-syntax/"
+                href="https://jxpiterx.github.io/fr-fr/posts/machine_learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jxpiterx.github.io/posts/markdown-syntax/"
+                href="https://jxpiterx.github.io/posts/machine_learning/"
                 />
   </url><url>
-    <loc>https://jxpiterx.github.io/posts/rich-content/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <loc>https://jxpiterx.github.io/posts/writeup_404ctf2025/</loc>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/posts/rich-content/"
+                href="https://jxpiterx.github.io/fr-fr/posts/writeup_404ctf2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jxpiterx.github.io/posts/rich-content/"
+                href="https://jxpiterx.github.io/posts/writeup_404ctf2025/"
                 />
   </url><url>
-    <loc>https://jxpiterx.github.io/posts/placeholder-text/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <loc>https://jxpiterx.github.io/posts/cti_tool/</loc>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/posts/placeholder-text/"
+                href="https://jxpiterx.github.io/fr-fr/posts/cti_tool/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jxpiterx.github.io/posts/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://jxpiterx.github.io/tags/emoji/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://jxpiterx.github.io/tags/emoji/"
-                />
-  </url><url>
-    <loc>https://jxpiterx.github.io/posts/emoji-support/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://jxpiterx.github.io/posts/emoji-support/"
-                />
-  </url><url>
-    <loc>https://jxpiterx.github.io/tags/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://jxpiterx.github.io/fr-fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://jxpiterx.github.io/tags/"
+                href="https://jxpiterx.github.io/posts/cti_tool/"
                 />
   </url><url>
     <loc>https://jxpiterx.github.io/pages/about/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -132,7 +93,7 @@
                 />
   </url><url>
     <loc>https://jxpiterx.github.io/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -145,7 +106,7 @@
                 />
   </url><url>
     <loc>https://jxpiterx.github.io/pages/</loc>
-    <lastmod>2026-01-09T09:59:44+01:00</lastmod>
+    <lastmod>2026-01-10T18:23:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -168,6 +129,18 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://jxpiterx.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://jxpiterx.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://jxpiterx.github.io/fr-fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://jxpiterx.github.io/tags/"
                 />
   </url>
 </urlset>

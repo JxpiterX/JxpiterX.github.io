@@ -13,16 +13,19 @@
       
       <guid>https://jxpiterx.github.io/pages/about/</guid>
       
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+      <description>&lt;p&gt;Hello 👋&lt;/p&gt;
+&lt;p&gt;I’m &lt;strong&gt;Jxpiter&lt;/strong&gt;, a French cybersecurity student with a strong interest in &lt;strong&gt;defensive security&lt;/strong&gt;.&lt;br&gt;
+This blog is a space where I share what I learn, build, and experiment with in the cyber field.&lt;/p&gt;
+&lt;p&gt;Here you will find:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tools I use, with clear explanations and use cases&lt;/li&gt;
+&lt;li&gt;Technical posts about topics I enjoy and study&lt;/li&gt;
+&lt;li&gt;Progress updates on training platforms and certifications&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+&lt;hr&gt;
+&lt;h3 id=&#34;-blue-team--career-path&#34;&gt;🔵 Blue Team &amp;amp; Career Path&lt;/h3&gt;
+&lt;p&gt;I am currently oriented toward &lt;strong&gt;Blue Team&lt;/strong&gt; activities and intend to continue in this direction.&lt;br&gt;
+My long-term goal is to specialize in &lt;strong&gt;DFIR (Digital Forensics &amp;amp; Incident Response)&lt;/strong&gt; and &lt;strong&gt;legal forensics&lt;/strong&gt;, while also developing solid skills in &lt;strong&gt;SOC operations&lt;/strong&gt; and &lt;strong&gt;Cyber Threat Intelligence (CTI)&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     

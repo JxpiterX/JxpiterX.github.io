@@ -7,13 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language><atom:link href="https://jxpiterx.github.io/fr-fr/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>À propos</title>
+      <title>About</title>
       <link>https://jxpiterx.github.io/fr-fr/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jxpiterx.github.io/fr-fr/pages/about/</guid>
       
-      <description>&lt;p&gt;Écrit en Go, Hugo est un générateur de sites statiques open source disponible sous la licence Apache 2.0. Hugo prend en charge les types de fichiers de données TOML, YAML et JSON, les fichiers de contenu Markdown et HTML, et utilise des shortcodes pour ajouter du contenu riche. Parmi les autres fonctionnalités notables, on trouve les taxonomies, le mode multilingue, le traitement des images, les formats de sortie personnalisés, la minification HTML/CSS/JS et le support des workflows Sass SCSS.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bonjour 👋&lt;/p&gt;
+&lt;p&gt;Je suis &lt;strong&gt;Jxpiter&lt;/strong&gt;, étudiant français en cybersécurité avec un fort intérêt pour la &lt;strong&gt;sécurité défensive&lt;/strong&gt;.&lt;br&gt;
+Ce blog est un espace où je partage ce que j’apprends, développe et expérimente dans le domaine de la cybersécurité.&lt;/p&gt;
+&lt;p&gt;Vous y trouverez :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les outils que j’utilise, avec des explications claires et des cas d’usage&lt;/li&gt;
+&lt;li&gt;Des articles techniques sur des sujets que j’étudie et que j’apprécie&lt;/li&gt;
+&lt;li&gt;Des mises à jour sur mon avancement sur les plateformes d’entraînement et les certifications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-blue-team--parcours-professionnel&#34;&gt;🔵 Blue Team &amp;amp; Parcours professionnel&lt;/h3&gt;
+&lt;p&gt;Je suis actuellement orienté &lt;strong&gt;Blue Team&lt;/strong&gt; et souhaite poursuivre dans cette voie.&lt;br&gt;
+Mon objectif à long terme est de me spécialiser en &lt;strong&gt;DFIR (Digital Forensics &amp;amp; Incident Response)&lt;/strong&gt; et en &lt;strong&gt;forensique légale&lt;/strong&gt;, tout en développant des compétences solides en &lt;strong&gt;SOC&lt;/strong&gt; et en &lt;strong&gt;Cyber Threat Intelligence (CTI)&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
