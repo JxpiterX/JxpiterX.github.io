@@ -51,25 +51,25 @@ ignoreErrors = ["additional-script-loading-error"]
     weight = 30
 
 [Languages.en-us.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Jxpiter blog"
   defaultColor = "dark"
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "Minimal blog"
   mainSections = ['posts']
   toc = true
   tocOpen = false
   goToTop = true
-  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  #additionalScripts = ['js/custom.js', 'js/custom-2.js']
   dateFormat = ""
   rssFeedDescription = "summary"
 
 [Languages.en-us.params.author]
-  avatar = "avatar.jpg"
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  avatar = "avatar.png"
+  intro = "Welcome to my blog"
+  name = "Jxpiter"
+  description = "I'm Jxpiter, a French Cybersecurity student. Check my last post !"
 
 [Languages.en-us.params.webmanifest]
-  name = "sitename" # will use "params.sitename" or "title" by default
+  name = "sitename" 
   short_name = "sitename"
   start_url = "/"
   theme_color = "#434648"
@@ -102,22 +102,22 @@ ignoreErrors = ["additional-script-loading-error"]
     weight = 30
 
 [Languages.fr-fr.params]
-  sitename = "Awesome hugo blog"
-  defaultColor = "dark" # set color mode: dark, light, auto
-  description = "Thème minimal pour blog Hugo avec prise en charge des modes clair et sombre"
+  sitename = "Jxpiter blog"
+  defaultColor = "dark"
+  description = "Minimal blog"
   mainSections = ['posts']
   toc = true
   tocOpen = false
   goToTop = true
-  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  #additionalScripts = ['js/custom.js', 'js/custom-2.js']
   dateFormat = ""
-  rssFeedDescription = "summary" # available options: 1) summary 2) full
+  rssFeedDescription = "summary" 
 
 [Languages.fr-fr.params.author]
-  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "Un thème Hugo rapide et minimaliste avec un mode clair et sombre, pour un site personnel ou un blog."
+  avatar = "avatar.png"
+  intro = "Bienvenue sur mon blog"
+  name = "Jxpiter"
+  description = "Je suis Jxpiter, un étudiant Français en Cybersecurité. Regardez mes derniers Articles !"
 
 [Languages.fr-fr.params.webmanifest]
   name = "sitename"
@@ -132,16 +132,16 @@ ignoreErrors = ["additional-script-loading-error"]
 #####################################################################################
 
 [params.browserconfig]
-  TileColor = "#2d89ef" # default windows 10 blue tile color
+  TileColor = "#2d89ef"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/JxpiterX"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "linkedin"
+url = "https://www.linkedin.com/in/perret-mathieu"
 
 [[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
+name = "discord"
+url = "https://discordapp.com/users/Jxpiter"

@@ -1,23 +1,61 @@
 ---
-title: À propos
-description: 'Hugo, the world''s fastest framework for building websites'
-author: Hugo Authors
+title: About
+author: Jxpiter
+toc: false
 ---
 
-Écrit en Go, Hugo est un générateur de sites statiques open source disponible sous la licence Apache 2.0. Hugo prend en charge les types de fichiers de données TOML, YAML et JSON, les fichiers de contenu Markdown et HTML, et utilise des shortcodes pour ajouter du contenu riche. Parmi les autres fonctionnalités notables, on trouve les taxonomies, le mode multilingue, le traitement des images, les formats de sortie personnalisés, la minification HTML/CSS/JS et le support des workflows Sass SCSS.
+Bonjour 👋  
 
-Hugo utilise divers projets open source, notamment :
+Je suis **Jxpiter**, étudiant français en cybersécurité avec un fort intérêt pour la **sécurité défensive**.  
+Ce blog est un espace où je partage ce que j’apprends, développe et expérimente dans le domaine de la cybersécurité.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Vous y trouverez :
+- Les outils que j’utilise, avec des explications claires et des cas d’usage  
+- Des articles techniques sur des sujets que j’étudie et que j’apprécie  
+- Des mises à jour sur mon avancement sur les plateformes d’entraînement et les certifications  
 
-Hugo est idéal pour les blogs, les sites Web d'entreprise, les portfolios créatifs, les magazines en ligne, les applications à page unique ou même un site Web avec des milliers de pages.
+---
 
-Hugo s'adresse aux personnes qui souhaitent coder elles-mêmes leur propre site Web sans se soucier de la mise en place de runtimes, de dépendances et de bases de données compliquées.
+### 🔵 Blue Team & Parcours professionnel
 
-Les sites Web construits avec Hugo sont extrêmement rapides, sécurisés et peuvent être déployés partout, y compris sur AWS, GitHub Pages, Heroku, Netlify et tout autre fournisseur d'hébergement.
+Je suis actuellement orienté **Blue Team** et souhaite poursuivre dans cette voie.  
+Mon objectif à long terme est de me spécialiser en **DFIR (Digital Forensics & Incident Response)** et en **forensique légale**, tout en développant des compétences solides en **SOC** et en **Cyber Threat Intelligence (CTI)**.
 
-Apprenez-en plus et contribuez sur  [GitHub](https://github.com/gohugoio).
+Mon ambition est d’intégrer une **CSIRT (Computer Security Incident Response Team)**, afin de combiner investigation, détection, réponse à incident et analyse.
+
+---
+
+### 🎓 Formation & Certifications
+
+Je prépare actuellement la certification **CDSA (Certified Defensive Security Analyst)** sur **Hack The Box**, avec pour objectif d’obtenir une certification reconnue et de valider mes compétences en sécurité défensive.
+
+Je m’entraîne également régulièrement sur des plateformes comme [Root-Me](https://www.root-me.org/Jxpiter?lang=fr) ou [CyberDefenders](https://cyberdefenders.org/p/Jxpiter), avec un intérêt particulier pour les **challenges orientés forensique**.
+
+---
+
+### 🛠 Outils
+
+Je publierai des articles concernant des outils que j’utilise régulièrement et que je considère réellement utiles pour les activités **Blue Team** et **DFIR**, notamment :
+- Des outils de détection et d’analyse  
+- Des utilitaires de forensique  
+- Des workflows de réponse à incident  
+
+---
+
+### 🧠 CTFs
+
+Je participe également à des **CTFs**, principalement axés sur la défense, la forensique et l’investigation.  
+Une section dédiée regroupera les CTFs auxquels j’ai participé ainsi que certains write-ups sélectionnés.
+
+| CTF                     | Équipe               | Points | Classement | Dates                  |
+|-------------------------|----------------------|--------|------------|------------------------|
+| **CTF DownUnder 2025**  | SuLifter             | 1447   | 324 / 1668 | 18/07/25 – 20/07/25    |
+| **CTF leHack 2025**     | TeamFlashMcQueen     | 1250   | 34 / 130   | 28/06/25 – 29/06/25    |
+| **Thales CTF (leHack)** | Solo                 | 1500   | 1 / 30     | 27/06/25 – 28/06/25    |
+| **404 CTF 2025**        | Solo                 | xxxx   | 123 / 3000 | 10/05/25 – 01/06/25    |
+| **RootMe x DGSE**       | Solo                 | 4/6    | xxxx       | 07/04/25 – 07/05/25    |
+| **RootMe x ComCyber**   | Solo                 | 2/6    | xxxx       | 03/03/25 – 31/03/25    |
+
+---
+
+Merci pour votre visite, et bienvenue sur mon blog !

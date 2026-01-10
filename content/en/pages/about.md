@@ -1,23 +1,62 @@
 ---
 title: About
-description: 'Hugo, the world''s fastest framework for building websites'
-author: Hugo Authors
+author: Jxpiter
+toc: false
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello 👋  
 
-Hugo makes use of a variety of open source projects including:
+I’m **Jxpiter**, a French cybersecurity student with a strong interest in **defensive security**.  
+This blog is a space where I share what I learn, build, and experiment with in the cyber field.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Here you will find:
+- Tools I use, with clear explanations and use cases  
+- Technical posts about topics I enjoy and study  
+- Progress updates on training platforms and certifications  
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+---
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+### 🔵 Blue Team & Career Path
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I am currently oriented toward **Blue Team** activities and intend to continue in this direction.  
+My long-term goal is to specialize in **DFIR (Digital Forensics & Incident Response)** and **legal forensics**, while also developing solid skills in **SOC operations** and **Cyber Threat Intelligence (CTI)**.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+My objective is to work within a **CSIRT (Computer Security Incident Response Team)**, where I can combine investigation, detection, response, and analysis.
+
+---
+
+### 🎓 Training & Certifications
+
+I am currently preparing for the **CDSA (Certified Defensive Security Analyst)** on **Hack The Box**, with the goal of obtaining a recognized certification and proving my defensive skills.
+
+I also train regularly on platforms such as [Root- Me](https://www.root-me.org/Jxpiter?lang=fr) or [CyberDefenders](https://cyberdefenders.org/p/Jxpiter), with a particular focus on **forensics-related challenges**.
+
+---
+
+### 🛠 Tools
+
+I will publish posts about tools I regularly use and find genuinely useful for Blue Team and DFIR work, including:
+- Detection and analysis tools  
+- Forensics utilities  
+- Incident response workflows  
+
+---
+
+### 🧠 CTFs
+
+I also participate in **CTFs**, mainly focused on defensive, forensic, and investigation-oriented challenges.  
+A dedicated section will list past CTFs and selected write-ups.
+
+| CTF                     | Team                 | Points | Position  | Dates                  |
+|-------------------------|----------------------|--------|-----------|------------------------|
+| **CTF DownUnder 2025**  | SuLifter             | 1447   | 324 / 1668| 18/07/25 – 20/07/25    |
+| **CTF leHack 2025**     | TeamFlashMcQueen     | 1250   | 34 / 130  | 28/06/25 – 29/06/25    |
+| **Thales CTF (leHack)** | Solo                 | 1500   | 1 / 30    | 27/06/25 – 28/06/25    |
+| **404 CTF 2025**        | Solo                 | xxxx   | 123 / 3000| 10/05/25 – 1/06/25     |
+| **RootMe x DGSE**       | Solo                 | 4/6    | xxxx      | 07/04/25 – 07/05/25    |
+| **RootMe x ComCyber**   | Solo                 | 2/6    | xxxx      | 03/03/25 – 31/03/25    |
+
+---
+
+Thanks for reading, and welcome to my blog !
+
